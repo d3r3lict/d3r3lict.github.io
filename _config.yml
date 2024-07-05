@@ -2,7 +2,7 @@ title: d3r3lict
 author: Arshak Abrahamyan
 url: https://d3r3lict.github.io/ # root address of the site
 description: > # description of the site (multiple lines allowed)
-  I'm a cybersecurity enthusiast from Armenia. Here I'm gonna post writeups.
+  I'm a cybersecurity enthusiast from Armenia. I'm gonna post writeups here.
 permalink: /:slug
 
 favicon: "./logo.png" # relative path to site's favicon
