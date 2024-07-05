@@ -30,4 +30,3 @@ Now recreate exactly the same directories and put your reverse shell payload int
 After a while we got the shell, nice. From here we can get third part of Chad Cherry's password.
 
 Let's do some shell stabilisation and move further.
-I used linpeas again
