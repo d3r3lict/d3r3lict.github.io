@@ -1,5 +1,5 @@
 ---
 layout: post
 author: d3r3lict
-tags: [spip, apparmor, suid]
+tags: [ctf, ctf, ctf]
 ---
