@@ -1,7 +1,6 @@
 ---
 layout: post
 author: d3r3lict
-tags: [CTF, SSTV, IDOR, etc]
 ---
 # Bob-Boba
 First of all we need to add the target into hosts file.
